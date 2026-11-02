@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Run: bash tools/set-domain.sh https://your-domain  (replaces example.com everywhere) -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://example.com/</loc></url>
+  <url><loc>https://example.com/works.html</loc></url>
+  <url><loc>https://example.com/presskit.html</loc></url>
+  <url><loc>https://example.com/course.html</loc></url>
+  <url><loc>https://example.com/academy.html</loc></url>
+  <url><loc>https://example.com/cv.html</loc></url>
+  <url><loc>https://example.com/privacy.html</loc></url>
+  <url><loc>https://example.com/library.html</loc></url>
+  <url><loc>https://example.com/about.html</loc></url>
+  <url><loc>https://example.com/services.html</loc></url>
+  <url><loc>https://example.com/directory.html</loc></url>
+  <url><loc>https://example.com/timeline.html</loc></url>
+  <url><loc>https://example.com/notes.html</loc></url>
+  <url><loc>https://example.com/activity.html</loc></url>
+  <url><loc>https://example.com/toolkit.html</loc></url>
+</urlset>

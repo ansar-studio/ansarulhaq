@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+# Run: bash tools/set-domain.sh https://your-domain
+Sitemap: https://example.com/sitemap.xml
